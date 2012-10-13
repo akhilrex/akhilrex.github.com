@@ -1,0 +1,8 @@
+---
+layout: post
+title: Index.php hack - First Steps
+description: ""
+category: "hacks"
+tags: ["hack","fix"]
+---
+{% include JB/setup %}

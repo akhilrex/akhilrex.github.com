@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Wordpress hack : First Steps"
+description: ""
+category: hack
+tags: [wordpress,hacks]
+---
+{% include JB/setup %}
+
+this is the content
