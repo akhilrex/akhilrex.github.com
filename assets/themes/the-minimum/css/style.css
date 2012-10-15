@@ -72,7 +72,7 @@ h3, .h3 {
   font-size: 26px;
   line-height: 26px;
   margin-top: 26px;
-  margin-bottom: 26px;
+  margin-bottom: 10px;
 }
 h4, .h4 {
   font-size: 20px;
@@ -232,7 +232,7 @@ pre {
   background: url('/assets/themes/the-minimum/skin/100-90-5-monochrome.png');
   background-repeat: repeat;
   background-position: 0 0;
-  background-color: #BADA55;
+  background-color: #0294d0;
   margin-bottom: 1.625em;
   padding-top: 1.625em;
   padding-bottom: 1.625em;
@@ -760,7 +760,7 @@ pre {
     width: 60em;
   }
   .the-header .logo {
-    width: 26.25em;
+    
     float: left;
   }
   .the-header .nav-global {
