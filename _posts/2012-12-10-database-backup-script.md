@@ -3,7 +3,7 @@ layout: post
 title: "Database Backup Script"
 description: "This is the script that is used to backup databases"
 category: 
-tags: []
+tags: [databse backup, utility, script, windows]
 ---
 {% include JB/setup %}
 
