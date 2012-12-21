@@ -7,9 +7,9 @@ tags: [html,utility,tool]
 ---
 {% include JB/setup %}
 
-Every now and then we need to make web forms where we need to include address / location fields like country, state or city. For most of the cases we can easily use a textbox and if we are not too concernved about the sanity of the data the texbox method works out very well. But at many times it makes sense to have a dropdown field for country or state so that the quality of data can be maintained. Sanitized and consistant data is easy to maintain and work on. 
+Every now and then we need to make web forms where we need to include address / location fields like country, state or city. For most of the cases we can easily use a textbox and if we are not too concerned about the sanity of the data the texbox method works out very well. But at many times it makes sense to have a dropdown field for country or state so that the quality of data can be maintained. Sanitized and consistent data is easy to maintain and work on. 
 
-Most of the times when you require such a dropdown you can easily search the relevant data on google and with some work find the relevant data. If you are lucky you will find proper HTML code for the data otherwise you can always work with a plain text list. To reduce this process of finding and converting I have created this micro tool that will easily generate the code for HTML select for the states of any country in the world. It will also generate for you a dropdown list of all the countries in the world. This tool makes use of the 
+Most of the times when you require such a dropdown you can easily search the relevant data on Google and with some work find the relevant data. If you are lucky you will find proper HTML code for the data otherwise you can always work with a plain text list. To reduce this process of finding and converting I have created this micro tool that will easily generate the code for HTML select for the states of any country in the world. It will also generate for you a dropdown list of all the countries in the world. This tool makes use of the 
 <a href="http://developer.yahoo.com/geo/geoplanet/guide/" target="_blank">Geoplanet</a> api provided by Yahoo.
 
 
