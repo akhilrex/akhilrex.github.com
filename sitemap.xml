@@ -1,28 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://akhilrex.github.com/fix/2012/create-scrollable-readonly-textarea-without-using-disabled</loc>
-        <lastmod>2012-10-13T18:35:56+05:30</lastmod>
-    </url>
-    <url>
-        <loc>http://akhilrex.github.com/tutorial/2012/how-to-disable-right-click-on-images-using-jquery</loc>
-        <lastmod>2012-10-13T18:35:56+05:30</lastmod>
-    </url>
-    <url>
-        <loc>http://geek.akhil.me/tutorial/2012/how-to-prevent-your-wordpress-or-joomla-site-from-getting-hacked</loc>
-        <lastmod>2012-10-13T18:35:56+05:30</lastmod>
-    </url>
-<url>
-        <loc>http://geek.akhil.me/tutorial/2012/remove-malicious-code-from-wordpress-or-joomla</loc>
-        <lastmod>2012-10-13T18:35:56+05:30</lastmod>
-    </url>
-	<url>
         <loc>http://geek.akhil.me/tutorial/2012/create-and-install-windows-7-from-usb</loc>
         <lastmod>2012-10-13T18:35:56+05:30</lastmod>
     </url>
     <url>
-        <loc>http://geek.akhil.me/2012/database-backup-script</loc>
-        <lastmod>2012-12-10T18:06:19+05:30</lastmod>
+        <loc>http://geek.akhil.me/tutorial/2012/database-backup-script</loc>
+        <lastmod>2012-12-11T14:02:56+05:30</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://geek.akhil.me/tutorial/2012/remove-malicious-code-from-wordpress-or-joomla
+        </loc>
+        <lastmod>2012-12-11T14:06:40+05:30</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://geek.akhil.me/tutorial/2012/how-to-prevent-your-wordpress-or-joomla-site-from-getting-hacked
+        </loc>
+        <lastmod>2012-12-12T19:20:19+05:30</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://geek.akhil.me/tutorial/2012/how-to-disable-right-click-on-images-using-jquery
+        </loc>
+        <lastmod>2012-12-14T18:24:39+05:30</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://geek.akhil.me/fix/2012/create-scrollable-readonly-textarea-without-using-disabled
+        </loc>
+        <lastmod>2012-12-18T15:22:29+05:30</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://geek.akhil.me/utility/2012/create-html-select-dropdown-for-states-of-any-country
+        </loc>
+        <lastmod>2012-12-21T23:22:25+05:30</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://geek.akhil.me/utility/2012/add-smooth-scrolling-back-to-top-button-on-site-with-jquery
+        </loc>
+        <lastmod>2012-12-26T13:50:59+05:30</lastmod>
     </url>
     <url>
         <loc>http://geek.akhil.me/categories.html</loc>
