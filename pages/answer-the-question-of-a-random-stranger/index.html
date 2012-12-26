@@ -1,0 +1,55 @@
+---
+layout: page
+title: "Answer the question of a random stranger"
+description: ""
+---
+{% include JB/setup %}
+
+<p>Do you like to help people? Answer their queries? Or just talk to strangers. Now there is a fun way to interact with strangers on the interweb. This app will pull random questions from twitter and you will get a chance to reply to that person's question. The question will change every 45 seconds if you do not answer. If you do not like the question or do not have an answer you can simply choose to skip to another question.</p>
+<p>I really enjoyed coding this micro app and it is particularly fun to use. You could find some really awesome questions here. If you like the app, do share. Have fun!</p>
+
+<a href="http://geek.akhil.me/pages/answer-the-question-of-a-random-stranger/index.html" data-related="akhilrex" class="twitter-share-button" data-lang="en">Share your love</a>
+
+<hr>
+
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js" >
+</script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.3/underscore-min.js" >
+</script>
+<script type="text/javascript" src="/assets/files/js/jquery.twitter.js"></script>
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script type="text/javascript" src="/assets/files/js/randomtweet.js" >
+</script>
+<div id="question">
+<img style="display:inline-block" src="" id="img" alt="">
+<a target="_blank" id="name"></a> asks
+<p id="text" style="display: inline-block;font-size:23px;line-height:200%"></p>
+</div>
+<div id="reply">
+<textarea id="response" id="" cols="40" rows="7" style="width:100%"></textarea>
+<span id="time"></span>
+<br>
+<a id="replylink" href="" class="button">Reply</a>
+<a id="change" href="#"  class="button" onclick="setTweet();return false;">Change Question</a>
+</div>
+<style>
+a.button{
+border: 1px solid #EEEEEE;
+display: inline-block;
+margin: 13px;
+padding: 5px 10px;
+text-align: center;
+width: 134px;	
+}
+a#replylink{
+background:#0294D0;
+color:#ffffff;	
+}
+a#change{
+background:#eeeeee;
+color:#000000;	
+}
+</style>
+
+
+Disclaimer: I shall not be liable for all the time that you spend enjoying answering questions of random strangers. 
