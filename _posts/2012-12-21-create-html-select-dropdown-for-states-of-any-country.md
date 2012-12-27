@@ -3,7 +3,7 @@ layout: post
 title: "Create HTML select dropdown for states of any country"
 description: "Generate HTML select dropdown for states of any country"
 category: utility
-tags: [html,utility,tool]
+tags: [html, utility, tool]
 ---
 {% include JB/setup %}
 
@@ -282,7 +282,7 @@ Most of the times when you require such a dropdown you can easily search the rel
 
 <table style="width:100%;display:none" class="output">
 <tr>
-<td id="live" style="min-width:200px">
+<td id="live" style="min-width:150px">
 <span>
 Sample Dropdown:
 </span>

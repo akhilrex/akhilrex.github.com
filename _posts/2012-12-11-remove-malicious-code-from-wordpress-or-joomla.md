@@ -3,7 +3,7 @@ layout: post
 title: "Remove Malicious code from Wordpress or Joomla"
 description: ""
 category: tutorial
-tags: [joomla,wordpress,hacking, fix]
+tags: [joomla, wordpress, hacking, fix]
 ---
 {% include JB/setup %}
 

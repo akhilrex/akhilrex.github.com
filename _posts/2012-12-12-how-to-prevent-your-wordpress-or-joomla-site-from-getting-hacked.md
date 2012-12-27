@@ -3,7 +3,7 @@ layout: post
 title: "How to prevent your Wordpress or Joomla site from getting hacked"
 description: "How to prevent your Wordpress or Joomla site from getting hacked"
 category: tutorial 
-tags: [wordpress,joomla,hacking]
+tags: [wordpress, joomla, hacking]
 ---
 {% include JB/setup %}
 

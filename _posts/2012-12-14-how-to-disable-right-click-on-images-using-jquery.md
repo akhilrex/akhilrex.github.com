@@ -3,7 +3,7 @@ layout: post
 title: "How to disable right click on images using jQuery"
 description: "How to disable right click on images using jQuery"
 category: tutorial
-tags: [jquery,right click,javascript]
+tags: [jquery, user experience, javascript]
 ---
 {% include JB/setup %}
 
