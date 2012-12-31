@@ -1,12 +1,12 @@
  var tweets=[];
  var time=45;
         $(document).ready(function () {
-            getTweets("what OR why OR where OR who OR why ?") ;
+            getTweets("Happy New Year OR HNY :)") ;
             $('#replylink').bind('click',function(){
                 setTimeout(setTweet,2000);
             });
             setInterval(function(){
-				$('#time').text('The question will change in '+time+ " seconds.");
+				$('#time').text('The wish will change in '+time+ " seconds.");
 				time--;
 				if(time<=0){
 					setTweet();
@@ -15,7 +15,7 @@
 				},1000);
         });
         function getTweets(query, page) {
-            $.twitter({q:query,result_type:"recent",replies:false,retweets:false, limit:100, nots:"RT",within:100, units:"km"}, function (data,queryObject) {
+            $.twitter({q:query,result_type:"recent",replies:false,retweets:false, limit:100, nots:'@ OR RT',within:100, units:"km",lang:"en"}, function (data,queryObject) {
                 tweets=data.results;
                 setTweet();
 
@@ -24,14 +24,13 @@
         function setTweet(){
 			
 			if(tweets.length<=0){
-				 getTweets("what OR why OR where OR who OR why ?") ;
+				  getTweets("Happy New Year OR HNY :)") ;
 				 return false;
 				}
 			
             var num= _.random(0,tweets.length);
             var tweet=tweets[num];
             
-             
             if (tweet.text.indexOf("@") >= 0){
 				tweets= _.without(tweets,tweet);
 				setTweet();
