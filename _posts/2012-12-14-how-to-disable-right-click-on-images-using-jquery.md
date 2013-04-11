@@ -14,11 +14,11 @@ Even then a lot of people still insist that the script should be added to their 
 	<script type="text/javascript">
 		$(document).ready(function(){
               // this part disables the right click
-			$('img').live('contextmenu', function(e) {
+			$('img').on('contextmenu', function(e) {
 				return false;
 			}); 
              //this part disables dragging of image
-			$('img').live('dragstart', function(e) {
+			$('img').on('dragstart', function(e) {
 				return false;
 			}); 
 
