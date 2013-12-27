@@ -7,7 +7,7 @@ tags: [popup , ads, block]
 ---
 {% include JB/setup %}
 
-There are a lot of sites on the internet that will show a popup ad for any and everyway you interact with them. They will even show a popup if you click somewhere in the empty space. Not only are these ads extremely annoying but these are mostly powered by shady ad providers who do very little to control the quality of their ads. This means these popups could be anything - malicious, offensive or pornographic. Although the inbuilt popup blocker of chrome is very efficient some sites are still able to bypass it. I have a neat trick for such sites. For the case of example I am going to use <a href="#" target="_blank">http://songspk.name</a> since is the most spammy site that I know. 
+There are a lot of sites on the internet that will show a popup ad for any and every way you interact with them. They will even show a popup if you click somewhere in the empty space. Not only are these ads extremely annoying but these are mostly powered by shady ad providers who do very little to control the quality of their ads. This means these popups could be anything - malicious, offensive or pornographic. Although the inbuilt popup blocker of chrome is very efficient some sites are still able to bypass it. I have a neat trick for such sites. For the case of example I am going to use <a href="#" target="_blank">http://songspk.name</a> since is the most spammy site that I know. 
 
 Please note that I do not promote the use of this or such sites and recommend that you do not pirate music. 
 
