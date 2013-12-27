@@ -22,4 +22,3 @@ Hence in this post I want to share with you some steps or precautions that each 
 8. __Take periodic backups__ : I know this is not actually a preventive method but it is important that you take regular backups of the site just so that it can be backed up in case something ever goes wrong.
 
 They say _'Prevention is better than cure'_ and I agree with this saying. Remember fixing a hacked site is a far more tedious and expensive task than simply preventing the hack. Trust me , I am saying this based on my own experience.
-
