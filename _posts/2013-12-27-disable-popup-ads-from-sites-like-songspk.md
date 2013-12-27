@@ -20,8 +20,6 @@ Please note that I do not promote the use of this or such sites and recommend th
 
 Now this process might disable some other features of the website as well but if the site has been developed logically and syntactically everything should work fine. In case the site does not work as you had expected you can always revert back using the exact same process. For more clarity check out the screenshots below
 
-![Open Web Developer Console](/assets/files/img/inspect.JPG "Open Web developer console")
+<img src="/assets/files/img/inspect.JPG" title="Open Web developer console" style="width:100%" />
 
-![Disable Javascript](/assets/files/img/disable.JPG "Disable Javascript")
-
-<style>img{width:100;}</style>
+<img src="/assets/files/img/disable.JPG" title="Disable Javascript" style="width:100%" />
