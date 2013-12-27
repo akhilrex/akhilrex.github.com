@@ -23,3 +23,5 @@ Now this process might disable some other features of the website as well but if
 ![Open Web Developer Console](/assets/files/img/inspect.JPG "Open Web developer console")
 
 ![Disable Javascript](/assets/files/img/disable.JPG "Disable Javascript")
+
+<style>img{width:100:}</style>
