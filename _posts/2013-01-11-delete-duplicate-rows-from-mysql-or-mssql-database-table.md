@@ -20,4 +20,4 @@ Lets take an example. Assuming you have a table called *Students* with columns *
      (SELECT Min(Id) FROM Students  GROUP BY Name,Email)
 
 
-Note: I recommend that you always take a backup of the data before you run any command that deletes any rows. Its a very good habit and saves a lot of hassles in case something goes wrong.
+Note: I recommend that you always take a backup of the data before you run any kind of command that deletes any rows. Its a very good habit and saves a lot of hassles in case something goes wrong.
