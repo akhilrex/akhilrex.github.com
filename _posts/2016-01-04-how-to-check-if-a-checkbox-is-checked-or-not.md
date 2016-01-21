@@ -9,7 +9,7 @@ tags: [javascript , hack, jquery]
 
 Use this simple code to check if a checkbox is checked or not using jquery/javascript
 
-### Using simple javascript
+#### Using simple javascript
 
 	<script type="text/javascript">
 	   if(document.getElementById('idOfCheckbox').checked) {
@@ -20,7 +20,7 @@ Use this simple code to check if a checkbox is checked or not using jquery/javas
 	</script>
 	
 	
-### Using jquery
+#### Using jquery
 
 
 	<script type="text/javascript">

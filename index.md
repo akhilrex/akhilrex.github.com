@@ -11,6 +11,7 @@ layout: page
 	<br/>	<br/>
 	<div>{{post.content}}</div>
 	</div>
+	<br/>
 	<script type="text/javascript">
     google_ad_client = "ca-pub-3038637209475832";
     google_ad_slot = "3145966558";
