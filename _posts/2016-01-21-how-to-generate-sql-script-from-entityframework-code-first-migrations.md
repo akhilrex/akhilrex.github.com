@@ -2,7 +2,7 @@
 layout: post
 title: "How to generate sql script from Entity Framework code first migrations"
 description: "How to generate sql script from Entity Framework code first migrations"
-category: tutorial
+category: database
 tags: [entityframework , sql, script]
 ---
 {% include JB/setup %}
