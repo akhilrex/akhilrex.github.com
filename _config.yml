@@ -4,7 +4,6 @@ permalink: /:categories/:year/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
-pygments: false
 highlighter: rogue
 
 # Themes are encouraged to use these universal variables 
