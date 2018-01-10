@@ -9,5 +9,6 @@ tags: [javascript , jquery, script]
 
 
 Use 
-    Math.round(num * 100) / 100
+
+        Math.round(num * 100) / 100
 
