@@ -13,9 +13,9 @@ Most of the times when you require such a dropdown you can easily search the rel
 <a href="http://developer.yahoo.com/geo/geoplanet/guide/" target="_blank">Geoplanet</a> api provided by Yahoo.
 
 
-<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js" >
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js" >
 </script>
-<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.3/underscore-min.js" >
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.3/underscore-min.js" >
 </script>
 <script type="text/javascript" src="/assets/files/js/states.js" >
 </script>
